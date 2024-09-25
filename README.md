@@ -1,0 +1,28 @@
+# Electron desktop :art:
+
+Styled electron desktop application template with react.
+
+![Screenshot](https://private-user-images.githubusercontent.com/168279599/370867244-f7012ea2-cea7-47f7-b836-20374ed2cb0d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyOTIzOTcsIm5iZiI6MTcyNzI5MjA5NywicGF0aCI6Ii8xNjgyNzk1OTkvMzcwODY3MjQ0LWY3MDEyZWEyLWNlYTctNDdmNy1iODM2LTIwMzc0ZWQyY2IwZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyNVQxOTIxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNjdmZTJkNjQxNWU1NDUxZjhkZWU4OTk4YTg4OTcwOTVjYTYyZmU1ZTAwNDRiOTUwMjQ3YmJiNmFiMTY1MjkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GzFCYB84mYlCqCQ_XpeomdKcnYb6mnUnkwm-HDmzjWY)
+![Screenshot with title](https://private-user-images.githubusercontent.com/168279599/370867251-1d18cb5e-df18-4ce2-98b8-f5c90d4aed06.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyOTIzOTcsIm5iZiI6MTcyNzI5MjA5NywicGF0aCI6Ii8xNjgyNzk1OTkvMzcwODY3MjUxLTFkMThjYjVlLWRmMTgtNGNlMi05OGI4LWY1YzkwZDRhZWQwNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyNVQxOTIxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTM3MDhhNWUxNTQ0YzM5ZGJiMTBjMWRlYmMzOWQyOGQ4OWUxZDgwMDRkMWYwMzA2YWNiYzc4MWJkZTQ4YzlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8nu_PmHcxT3uyDwypSAvhoPWb--MPwH-h7hlkW-Hl_g)
+
+In this application custom window appearance and React are already integrated.
+
+Typescript is also supported.
+
+You can use this public template when you creating your own application.
+
+## Available scripts:
+
+In the project directory, you can run:
+
+- `npm run start`
+- `npm run dev`
+- `npm run package`
+- `npm run make`
+- `npm run publish`
+- `npm run lint`
+
+## Used external sources:
+
+- [Material UI](https://mui.com/material-ui/)
+- [Bootstrap Icons](https://icons.getbootstrap.com)
